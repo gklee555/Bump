@@ -1,2 +1,2 @@
 # Bump
-Bump App Repo!! LETS GOOOO
+Moved to private cornell repo :(
